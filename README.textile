@@ -1,6 +1,4 @@
-h1. jQuery Custom Scrollbar
-
-jQuery Custom Scrollbar is a jQuery plugin that lets you add fully customizable scrollbars to your sites. With the plugin you can apply any css styles you want to your scrollbars.
+h1. jQscroll
 
 h2. Features
 
