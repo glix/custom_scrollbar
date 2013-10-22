@@ -1,9 +1,9 @@
 .scrollable {
-  position: relative;
+  position: absolute;
 }
 
 .scrollable:focus {
-  outline: 0;
+  outline: 2;
 }
 
 .scrollable .viewport {
@@ -22,7 +22,7 @@
 .scrollable .scroll-bar.vertical {
   position: absolute;
   right: 0;
-  height: 100%;
+  height: 90%;
 }
 
 .scrollable .scroll-bar.horizontal {
